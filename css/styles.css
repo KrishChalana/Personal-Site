@@ -541,16 +541,8 @@ video {
   left: 8rem;
 }
 
-.right-0 {
-  right: 0px;
-}
-
 .z-20 {
   z-index: 20;
-}
-
-.row-span-2 {
-  grid-row: span 2 / span 2;
 }
 
 .row-start-1 {
@@ -707,10 +699,6 @@ video {
   grid-template-rows: repeat(3, minmax(0, 1fr));
 }
 
-.grid-rows-\[repeat\(auto-fit\2c _16\.666666\%\)\] {
-  grid-template-rows: repeat(auto-fit, 16.666666%);
-}
-
 .flex-col {
   flex-direction: column;
 }
@@ -741,10 +729,6 @@ video {
 
 .gap-8 {
   gap: 2rem;
-}
-
-.justify-self-center {
-  justify-self: center;
 }
 
 .overflow-hidden {
@@ -815,10 +799,6 @@ video {
 
 .p-2 {
   padding: 0.5rem;
-}
-
-.p-3 {
-  padding: 0.75rem;
 }
 
 .p-5 {
